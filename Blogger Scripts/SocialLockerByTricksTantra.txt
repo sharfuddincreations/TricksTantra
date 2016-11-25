@@ -1,33 +1,33 @@
                                       ***Before </head>***
 
-<script src=’http://code.jquery.com/jquery-1.10.2.min.js’ type=’text/javascript’/>
+<script src=â€™http://code.jquery.com/jquery-1.10.2.min.jsâ€™ type=â€™text/javascriptâ€™/>
 
 
                                        ***Before </head>***
 
-<link href=’https://googledrive.com/host/0B_1mqJd2tC8qeDVzSnBJMDh5WUk’ rel=’stylesheet’/>
+<link href=â€™https://googledrive.com/host/0B_1mqJd2tC8qeDVzSnBJMDh5WUkâ€™ rel=â€™stylesheetâ€™/>
 
-<script src=’https://googledrive.com/host/0B_1mqJd2tC8qbGdmQzRZVGk3bXM’ type=’text/javascript’/>
+<script src=â€™https://googledrive.com/host/0B_1mqJd2tC8qbGdmQzRZVGk3bXMâ€™ type=â€™text/javascriptâ€™/>
 
-<script type=’text/javascript’>
+<script type=â€™text/javascriptâ€™>
 //<![CDATA[
 jQuery(document).ready(function ($) {
-$(‘#default-usage .to-lock’).sociallocker({
+$(â€˜#default-usage .to-lockâ€™).sociallocker({
 
-buttons: {order:[“facebook-like“,”twitter-tweet“,”google-plus“]},
+buttons: {order:[â€œfacebook-likeâ€œ,â€twitter-tweetâ€œ,â€google-plusâ€œ]},
 
-twitter: {url:”http://twitter.com/scorpionruler“},
-facebook: {url:”https://www.facebook.com/scorpionruler“},
-google: {url:”https://plus.google.com/+MohammadSharfuddin“},
+twitter: {url:â€http://twitter.com/scorpionrulerâ€œ},
+facebook: {url:â€https://www.facebook.com/scorpionrulerâ€œ},
+google: {url:â€https://plus.google.com/+MohammadSharfuddinâ€œ},
 
 text: {
-header: “Like us To Unlock This Content“,
-message: “This content is locked. Like us on Facebook, Twitter or Google plus to unlock it.”
+header: â€œLike us To Unlock This Contentâ€œ,
+message: â€œThis content is locked. Like us on Facebook, Twitter or Google plus to unlock it.â€
 },
 
 locker: {close: false, timer: 0,},
 
-theme: “dandyish”
+theme: â€œdandyishâ€
 
 });
 });
@@ -35,10 +35,10 @@ theme: “dandyish”
 </script>
 
 
-                                        *** Locked Content ***
+                                 789      *** Locked Content ***
 
-<article id=”default-usage”>
-<div class=”to-lock” style=”display:none;”>
-– ADD YOUR CONTENT HERE –
+<article id=â€default-usageâ€>
+<div class=â€to-lockâ€ style=â€display:none;â€>
+â€“ ADD YOUR CONTENT HERE â€“
 </div>
 </article>
